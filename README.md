@@ -13,6 +13,7 @@ A quantum sorting algorithm which can sort any list in O(1), using the "many wor
 There is at least one foolproof way to solve 3SAT in polynomial time:  
 1. Given a formula ϕ, guess a random assignment x.
 2. Kill yourself if x does not satisfy ϕ.  
-Conditioned on looking at anything at all, you will be looking at a satisfying assignment!
+  
+Conditioned on looking at anything at all, you will be looking at a satisfying assignment!  
   
 **Credit:** Scott Aaronson
