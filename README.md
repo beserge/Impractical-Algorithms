@@ -7,7 +7,7 @@ A quantum sorting algorithm which can sort any list in O(1), using the "many wor
 2. If the list is not sorted, destroy the universe. (This operation is left as an exercise to the reader.)  
 3. All remaining universes contain lists which are sorted.
 
-**Credit:** Not sure yet...
+**Credit:** Someone on Reddit
 
 ## Anthropic Computing
 There is at least one foolproof way to solve 3SAT in polynomial time:  
